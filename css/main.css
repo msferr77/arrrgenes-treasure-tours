@@ -34,11 +34,13 @@ html {
 .nav a:hover span,
 .nav a:focus span {
   border-bottom-color: #fff;
+  background-color: #704c2a;
 }
 
 .banner {
   min-height: 16em;
   color: #fff;
+  background-color: #704c2a;
 }
 
 .card {
